@@ -1832,6 +1832,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Ref.1:\nnPM1300 Product Specification V1.1 _ 4490_483 v1.1 / 2024-06-16\nhttps://download.mikroe.com/documents/datasheets/nPM1300_datasheet.pdf"
+		(exclude_from_sim no)
+		(at 14.224 190.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+			(href "https://download.mikroe.com/documents/datasheets/nPM1300_datasheet.pdf")
+		)
+		(uuid "0610a7af-951c-4deb-9286-42f09151cabd")
+	)
 	(text "Power Management IC (PMIC)"
 		(exclude_from_sim no)
 		(at 87.63 23.368 0)

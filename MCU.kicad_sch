@@ -9910,7 +9910,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9b06fff6-a54d-43af-a88e-9929aada6af9")
 		(property "Reference" "U7"
 			(at 265.43 88.8999 0)
