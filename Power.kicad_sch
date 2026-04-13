@@ -2204,9 +2204,9 @@
 		)
 		(uuid "3dd537ef-5ecb-4cab-b390-6cb24ecb7d38")
 	)
-	(text "For 3.3V output -> R1 = 203K and R2 = 66.5K"
+	(text "For 3.3V output -> R1 = 246.1K (220K+26.1K) and R2 = 66.5K"
 		(exclude_from_sim no)
-		(at 231.394 85.344 0)
+		(at 231.394 84.582 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7885,7 +7885,7 @@
 				)
 			)
 		)
-		(property "Value" "15K"
+		(property "Value" "26.1K"
 			(at 244.094 59.436 90)
 			(show_name no)
 			(do_not_autoplace no)
